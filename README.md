@@ -1,4 +1,4 @@
-# 🖼️ Image to ASCII Art Converter 🎨
+#  Image to ASCII Art Converter 
 
 This Python project converts any image into **ASCII art** using the `pywhatkit` library. 
 It reads an image from your computer, converts it to ASCII characters, saves the result as a `.txt` file, and displays it in the terminal.
